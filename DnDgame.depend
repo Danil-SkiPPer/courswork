@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1714728853 source:d:\code\course work\final_project\dndgame\gameengine.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	"gameEngine.h"
+
+1714730510 d:\code\course work\final_project\dndgame\gameengine.h
+
+1714665728 source:d:\code\course work\final_project\dndgame\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	"gameEngine.h"
+
